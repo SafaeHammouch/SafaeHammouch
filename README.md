@@ -34,18 +34,27 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h2 align="center">📊 README Design Kit Stats</h2>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues-pr/safaehammouch/safaehammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Pull requests"/>
-  <img src="https://img.shields.io/github/contributors/safaehammouch/safaehammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Contributors"/>
-  <img src="https://img.shields.io/github/forks/safaehammouch/safaehammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Forks"/>
-  <img src="https://img.shields.io/github/stars/safaehammouch/safaehammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Stars"/>
+  <img src="https://img.shields.io/github/issues-pr/SafaeHammouch/SafaeHammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Pull requests"/>
+  <img src="https://img.shields.io/github/contributors/SafaeHammouch/SafaeHammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Contributors"/>
+  <img src="https://img.shields.io/github/forks/SafaeHammouch/SafaeHammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/SafaeHammouch/SafaeHammouch?style=for-the-badge&logo=github&color=000000&labelColor=333333" alt="Stars"/>
 </p>
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SafaeHammouch&show_icons=true&theme=dark&hide_border=true" alt="Safae's GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaeHammouch&layout=compact&theme=dark&hide_border=true" alt="Safae's most used languages"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=SafaeHammouch&show_icons=true&theme=dark&hide_border=true"
+    alt="Safae's GitHub statistics"
+  />
+
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SafaeHammouch&layout=compact&theme=dark&hide_border=true"
+    alt="Safae's most used languages"
+  />
 </p>
